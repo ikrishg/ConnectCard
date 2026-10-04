@@ -2,7 +2,7 @@
 
 Digital Business Card built for Connection 🪬
 
-[![A screenshot of the ConnectCard Website](https://github.com/kkrishguptaa/ConnectCard/raw/main/.github/screenshot.png)](https://connect.krishg.com)
+[![A screenshot of the ConnectCard Website](https://github.com/ikrishg/ConnectCard/raw/main/.github/screenshot.png)](https://connect.krishg.com)
 
 ## 👋 Introduction
 
@@ -40,14 +40,14 @@ The palette is intentionally minimal:
 
 This website is hosted on Vercel. If you want to deploy it yourself, you can use this handy button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2FConnectCard&demo-title=ConnectCard&demo-description=Digital%20Business%20Card%20built%20for%20Connection&demo-url=https%3A%2F%2Fconnect.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2FConnectCard%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fikrishg%2FConnectCard&demo-title=ConnectCard&demo-description=Digital%20Business%20Card%20built%20for%20Connection&demo-url=https%3A%2F%2Fconnect.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fikrishg%2FConnectCard%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
 
 ## ✌️ Running Locally
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kkrishguptaa/ConnectCard.git
+   git clone https://github.com/ikrishg/ConnectCard.git
    ```
 
 2. Navigate to the project directory:
